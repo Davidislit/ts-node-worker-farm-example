@@ -1,7 +1,7 @@
 {
-   "name": "new-typeorm-project",
+   "name": "ts-node-worker-farm-example",
    "version": "0.0.1",
-   "description": "Awesome project developed with TypeORM.",
+   "description": "Awesome project",
    "devDependencies": {
       "@types/node": "^8.0.29",
       "ts-node": "3.3.0",
